@@ -36,6 +36,7 @@ Source: https://github.com/owenagitza/Purwadhika-DS/blob/main/Capstone_2/Northwi
 - `territories` : Stores information about territorial responsibility of each employees
 
 Each table listed in the database can be connected, either directly or indirectly, such that any information from this database would be interrelated.
+
 ![](https://raw.githubusercontent.com/owenagitza/Purwadhika-DS/main/Capstone_2/Northwind%20ERD.png)
 
 ---
