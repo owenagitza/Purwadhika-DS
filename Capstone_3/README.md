@@ -135,7 +135,7 @@ Each table listed in the database can be connected, either directly or indirectl
 
 ## How To Use
 
-To get the notebook, simply download or clone this repository.  From there, you can open it up in a text editor.
+To get the notebook, simply download or clone this repository.  From there, you can open it up in a text editor. The final model can be accessed in the repository with the name `final_model.sav`
 
 **Please make sure to download the zip file and extract all of the contents. DO NOT change the structure of the folders to ensure that the notebook is viewed as intended.**
 
